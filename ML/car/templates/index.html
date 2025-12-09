@@ -1,0 +1,522 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>✨ Car Price AI - Your Smart Valuation Partner</title>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap"
+        rel="stylesheet">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Poppins', sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 50%, #f093fb 100%);
+            min-height: 100vh;
+            padding: 40px 20px;
+            position: relative;
+            overflow-x: hidden;
+        }
+
+        /* Animated background blobs */
+        .blob {
+            position: fixed;
+            border-radius: 50%;
+            filter: blur(60px);
+            opacity: 0.3;
+            animation: float 20s ease-in-out infinite;
+        }
+
+        .blob1 {
+            width: 400px;
+            height: 400px;
+            background: rgba(255, 255, 255, 0.3);
+            top: -100px;
+            right: -100px;
+            animation-delay: 0s;
+        }
+
+        .blob2 {
+            width: 350px;
+            height: 350px;
+            background: rgba(240, 147, 251, 0.4);
+            bottom: -100px;
+            left: -100px;
+            animation-delay: 7s;
+        }
+
+        .blob3 {
+            width: 300px;
+            height: 300px;
+            background: rgba(102, 126, 234, 0.3);
+            top: 50%;
+            left: 50%;
+            animation-delay: 14s;
+        }
+
+        @keyframes float {
+
+            0%,
+            100% {
+                transform: translate(0, 0) scale(1);
+            }
+
+            33% {
+                transform: translate(50px, -50px) scale(1.1);
+            }
+
+            66% {
+                transform: translate(-50px, 50px) scale(0.9);
+            }
+        }
+
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+            position: relative;
+            z-index: 1;
+        }
+
+        .header {
+            text-align: center;
+            margin-bottom: 60px;
+            animation: fadeInDown 1s ease;
+        }
+
+        .icon-wrapper {
+            display: inline-block;
+            position: relative;
+            margin-bottom: 20px;
+        }
+
+        .icon {
+            font-size: 4.5rem;
+            display: inline-block;
+            animation: bounce 2s ease-in-out infinite;
+            filter: drop-shadow(0 10px 20px rgba(0, 0, 0, 0.3));
+        }
+
+        @keyframes bounce {
+
+            0%,
+            100% {
+                transform: translateY(0);
+            }
+
+            50% {
+                transform: translateY(-10px);
+            }
+        }
+
+        .header h1 {
+            font-size: 3.5rem;
+            font-weight: 800;
+            margin-bottom: 15px;
+            background: linear-gradient(135deg, #fff 0%, #ffd3ff 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            line-height: 1.2;
+            text-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+        }
+
+        .header .subtitle {
+            font-size: 1.3rem;
+            font-weight: 300;
+            color: rgba(255, 255, 255, 0.95);
+            margin-bottom: 10px;
+        }
+
+        .header .tagline {
+            font-size: 1rem;
+            color: rgba(255, 255, 255, 0.8);
+            font-weight: 300;
+            font-style: italic;
+        }
+
+        .card {
+            background: rgba(255, 255, 255, 0.12);
+            backdrop-filter: blur(20px) saturate(180%);
+            -webkit-backdrop-filter: blur(20px) saturate(180%);
+            border-radius: 30px;
+            padding: 60px 50px;
+            box-shadow:
+                0 8px 32px 0 rgba(31, 38, 135, 0.37),
+                inset 0 1px 0 0 rgba(255, 255, 255, 0.3);
+            border: 1px solid rgba(255, 255, 255, 0.25);
+            animation: fadeInUp 1s ease;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .card::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: -100%;
+            width: 100%;
+            height: 100%;
+            background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.1), transparent);
+            transition: left 0.5s;
+        }
+
+        .card:hover::before {
+            left: 100%;
+        }
+
+        .form-title {
+            text-align: center;
+            margin-bottom: 40px;
+            color: #fff;
+            font-size: 1.5rem;
+            font-weight: 600;
+        }
+
+        .form-grid {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 30px;
+            margin-bottom: 30px;
+        }
+
+        .form-group {
+            display: flex;
+            flex-direction: column;
+            position: relative;
+        }
+
+        .form-group.full-width {
+            grid-column: 1 / -1;
+        }
+
+        label {
+            font-size: 0.875rem;
+            font-weight: 600;
+            margin-bottom: 10px;
+            color: rgba(255, 255, 255, 0.95);
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .helper-text {
+            font-size: 0.75rem;
+            color: rgba(255, 255, 255, 0.7);
+            margin-top: 5px;
+            font-weight: 300;
+            font-style: italic;
+        }
+
+        input,
+        select {
+            padding: 16px 22px;
+            border: 2px solid rgba(255, 255, 255, 0.25);
+            border-radius: 15px;
+            font-size: 1.05rem;
+            background: rgba(255, 255, 255, 0.95);
+            color: #333;
+            font-family: 'Poppins', sans-serif;
+            transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+            font-weight: 500;
+        }
+
+        input:hover,
+        select:hover {
+            background: rgba(255, 255, 255, 0.98);
+            border-color: rgba(255, 255, 255, 0.4);
+        }
+
+        input:focus,
+        select:focus {
+            outline: none;
+            border-color: #f093fb;
+            background: #fff;
+            transform: translateY(-3px);
+            box-shadow:
+                0 8px 20px rgba(0, 0, 0, 0.15),
+                0 0 0 3px rgba(240, 147, 251, 0.2);
+        }
+
+        input::placeholder {
+            color: #999;
+            font-weight: 400;
+        }
+
+        .submit-btn {
+            grid-column: 1 / -1;
+            padding: 20px 50px;
+            background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);
+            color: white;
+            border: none;
+            border-radius: 15px;
+            font-size: 1.2rem;
+            font-weight: 700;
+            cursor: pointer;
+            transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+            text-transform: uppercase;
+            letter-spacing: 1.5px;
+            margin-top: 20px;
+            position: relative;
+            overflow: hidden;
+            box-shadow: 0 10px 25px rgba(245, 87, 108, 0.3);
+        }
+
+        .submit-btn::before {
+            content: '';
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            width: 0;
+            height: 0;
+            border-radius: 50%;
+            background: rgba(255, 255, 255, 0.2);
+            transform: translate(-50%, -50%);
+            transition: width 0.6s, height 0.6s;
+        }
+
+        .submit-btn:hover::before {
+            width: 300px;
+            height: 300px;
+        }
+
+        .submit-btn:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 15px 35px rgba(245, 87, 108, 0.5);
+        }
+
+        .submit-btn:active {
+            transform: translateY(-2px);
+        }
+
+        /* Custom select styling */
+        select {
+            cursor: pointer;
+            appearance: none;
+            background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 16 16'%3E%3Cpath fill='%23333' d='M12.293 5.293L8 9.586 3.707 5.293A1 1 0 002.293 6.707l5 5a1 1 0 001.414 0l5-5a1 1 0 10-1.414-1.414z'/%3E%3C/svg%3E");
+            background-repeat: no-repeat;
+            background-position: right 18px center;
+            padding-right: 50px;
+        }
+
+        input[list] {
+            cursor: pointer;
+        }
+
+        .trust-badge {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 30px;
+            margin-top: 40px;
+            padding-top: 30px;
+            border-top: 1px solid rgba(255, 255, 255, 0.2);
+        }
+
+        .badge-item {
+            text-align: center;
+            color: rgba(255, 255, 255, 0.9);
+        }
+
+        .badge-number {
+            font-size: 1.8rem;
+            font-weight: 700;
+            display: block;
+            margin-bottom: 5px;
+        }
+
+        .badge-label {
+            font-size: 0.75rem;
+            opacity: 0.8;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+
+        @keyframes fadeInDown {
+            from {
+                opacity: 0;
+                transform: translateY(-40px);
+            }
+
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        @keyframes fadeInUp {
+            from {
+                opacity: 0;
+                transform: translateY(40px);
+            }
+
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        @media (max-width: 768px) {
+            .form-grid {
+                grid-template-columns: 1fr;
+            }
+
+            .header h1 {
+                font-size: 2.5rem;
+            }
+
+            .card {
+                padding: 40px 30px;
+            }
+
+            .trust-badge {
+                flex-direction: column;
+                gap: 20px;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <!-- Animated background blobs -->
+    <div class="blob blob1"></div>
+    <div class="blob blob2"></div>
+    <div class="blob blob3"></div>
+
+    <div class="container">
+        <div class="header">
+            <div class="icon-wrapper">
+                <div class="icon">🚗✨</div>
+            </div>
+            <h1>Car Price AI</h1>
+            <p class="subtitle">Your Intelligent Valuation Partner</p>
+            <p class="tagline">Get instant, accurate car price predictions powered by advanced AI</p>
+        </div>
+
+        <div class="card">
+            <h2 class="form-title">💎 Tell us about your car</h2>
+
+            <form action="/predict" method="POST">
+                <div class="form-grid">
+                    <div class="form-group full-width">
+                        <label for="Car_Name">
+                            <span>🚙</span>
+                            <span>Car Model</span>
+                        </label>
+                        <input list="car-names" name="Car_Name" id="Car_Name"
+                            placeholder="Start typing or select a car model..." required>
+                        <datalist id="car-names">
+                            {% for car in car_names %}
+                            <option value="{{ car }}">
+                                {% endfor %}
+                        </datalist>
+                        <span class="helper-text">Choose from over 250+ car models</span>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="Year">
+                            <span>📅</span>
+                            <span>Manufacturing Year</span>
+                        </label>
+                        <input type="number" name="Year" id="Year" min="2000" max="2025" placeholder="2020" required>
+                        <span class="helper-text">When was it made?</span>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="Present_Price">
+                            <span>💵</span>
+                            <span>Current Market Price</span>
+                        </label>
+                        <input type="number" step="0.01" name="Present_Price" id="Present_Price" placeholder="15000"
+                            required>
+                        <span class="helper-text">In USD ($)</span>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="Kms_Driven">
+                            <span>📏</span>
+                            <span>Kilometers Driven</span>
+                        </label>
+                        <input type="number" name="Kms_Driven" id="Kms_Driven" placeholder="45000" required>
+                        <span class="helper-text">Total mileage</span>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="Owner">
+                            <span>👤</span>
+                            <span>Ownership History</span>
+                        </label>
+                        <select name="Owner" id="Owner" required>
+                            <option value="0">First Owner (Brand New Feel)</option>
+                            <option value="1">Second Owner</option>
+                            <option value="2">Third Owner</option>
+                            <option value="3">Fourth+ Owner</option>
+                        </select>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="Fuel_Type">
+                            <span>⛽</span>
+                            <span>Fuel Type</span>
+                        </label>
+                        <select name="Fuel_Type" id="Fuel_Type" required>
+                            <option value="Petrol">Petrol</option>
+                            <option value="Diesel">Diesel</option>
+                            <option value="CNG">CNG (Eco-Friendly)</option>
+                        </select>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="Seller_Type">
+                            <span>🏪</span>
+                            <span>Seller Type</span>
+                        </label>
+                        <select name="Seller_Type" id="Seller_Type" required>
+                            <option value="Dealer">Dealer (Certified)</option>
+                            <option value="Individual">Individual Seller</option>
+                        </select>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="Transmission">
+                            <span>⚙️</span>
+                            <span>Transmission</span>
+                        </label>
+                        <select name="Transmission" id="Transmission" required>
+                            <option value="Manual">Manual</option>
+                            <option value="Automatic">Automatic</option>
+                        </select>
+                    </div>
+                </div>
+
+                <button type="submit" class="submit-btn">
+                    <span style="position: relative; z-index: 1;">✨ Get AI Price Estimate</span>
+                </button>
+        </div>
+
+        <div class="trust-badge">
+            <div class="badge-item">
+                <span class="badge-number">97.89%</span>
+                <span class="badge-label">Accuracy</span>
+            </div>
+            <div class="badge-item">
+                <span class="badge-number">602+</span>
+                <span class="badge-label">Data Points</span>
+            </div>
+            <div class="badge-item">
+                <span class="badge-number">250+</span>
+                <span class="badge-label">Car Models</span>
+            </div>
+        </div>
+        </form>
+    </div>
+    </div>
+</body>
+
+</html>

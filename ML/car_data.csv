@@ -1,0 +1,602 @@
+Car_Name,Year,Selling_Price,Present_Price,Kms_Driven,Fuel_Type,Seller_Type,Transmission,Owner
+ritz,2014,4036.14,6734.94,27000,Petrol,Dealer,Manual,0
+sx4,2013,5722.89,11493.98,43000,Diesel,Dealer,Manual,0
+ciaz,2017,8734.94,11867.47,6900,Petrol,Dealer,Manual,0
+wagon r,2011,3433.73,5000.0,5200,Petrol,Dealer,Manual,0
+swift,2014,5542.17,8277.11,42450,Diesel,Dealer,Manual,0
+vitara brezza,2018,11144.58,11843.37,2071,Diesel,Dealer,Manual,0
+ciaz,2015,8132.53,9783.13,18796,Petrol,Dealer,Manual,0
+s cross,2015,7831.33,10373.49,33429,Diesel,Dealer,Manual,0
+ciaz,2016,10542.17,10710.84,20273,Diesel,Dealer,Manual,0
+ciaz,2015,8975.9,10746.99,42367,Diesel,Dealer,Manual,0
+alto 800,2017,3433.73,4337.35,2135,Petrol,Dealer,Manual,0
+ciaz,2015,8253.01,12506.02,51000,Diesel,Dealer,Manual,0
+ciaz,2015,9036.14,11975.9,15000,Petrol,Dealer,Automatic,0
+ertiga,2015,7349.4,9289.16,26000,Petrol,Dealer,Manual,0
+dzire,2009,2710.84,8686.75,77427,Petrol,Dealer,Manual,0
+ertiga,2016,9337.35,13000.0,43000,Diesel,Dealer,Manual,0
+ertiga,2015,8734.94,13000.0,41678,Diesel,Dealer,Manual,0
+ertiga,2016,9337.35,13000.0,43000,Diesel,Dealer,Manual,0
+wagon r,2015,3915.66,6132.53,35500,CNG,Dealer,Manual,0
+sx4,2010,3192.77,9614.46,41442,Petrol,Dealer,Manual,0
+alto k10,2016,3433.73,4759.04,25000,Petrol,Dealer,Manual,0
+ignis,2017,5903.61,6879.52,2400,Petrol,Dealer,Manual,0
+sx4,2011,5301.2,9650.6,50000,Petrol,Dealer,Automatic,0
+alto k10,2014,3012.05,4168.67,45280,Petrol,Dealer,Manual,0
+wagon r,2013,3493.98,5313.25,56879,Petrol,Dealer,Manual,0
+swift,2011,3614.46,6012.05,20000,Petrol,Dealer,Manual,0
+swift,2013,5000.0,7072.29,55138,Petrol,Dealer,Manual,0
+swift,2017,7228.92,7819.28,16200,Petrol,Individual,Manual,0
+alto k10,2010,2349.4,4759.04,44542,Petrol,Dealer,Manual,0
+ciaz,2015,8975.9,12506.02,45000,Diesel,Dealer,Manual,0
+ritz,2012,3734.94,7204.82,51439,Diesel,Dealer,Manual,0
+ritz,2011,2831.33,5891.57,54200,Petrol,Dealer,Manual,0
+swift,2014,5963.86,9024.1,39000,Diesel,Dealer,Manual,0
+ertiga,2014,7228.92,11987.95,45000,Diesel,Dealer,Manual,0
+dzire,2014,6626.51,9710.84,45000,Diesel,Dealer,Manual,0
+sx4,2011,3554.22,9325.3,49998,CNG,Dealer,Manual,0
+dzire,2015,5602.41,8674.7,48767,Petrol,Dealer,Manual,0
+800,2003,421.69,2746.99,127000,Petrol,Individual,Manual,0
+alto k10,2016,3614.46,4530.12,10079,Petrol,Dealer,Manual,0
+sx4,2003,2710.84,9614.46,62000,Petrol,Dealer,Manual,0
+baleno,2016,7048.19,9481.93,24524,Petrol,Dealer,Automatic,0
+alto k10,2014,3072.29,4795.18,46706,Petrol,Dealer,Manual,0
+sx4,2008,2349.4,8614.46,58000,Petrol,Dealer,Manual,0
+dzire,2014,6626.51,9710.84,45780,Diesel,Dealer,Manual,0
+omni,2012,1506.02,3240.96,50000,Petrol,Dealer,Manual,0
+ciaz,2014,9036.14,14506.02,15000,Petrol,Dealer,Automatic,0
+ritz,2013,3192.77,5891.57,64532,Petrol,Dealer,Manual,0
+wagon r,2006,1265.06,5000.0,65000,Petrol,Dealer,Manual,0
+ertiga,2015,6987.95,9289.16,25870,Petrol,Dealer,Manual,0
+ciaz,2017,9337.35,11192.77,37000,Petrol,Dealer,Automatic,0
+fortuner,2012,17951.81,36879.52,104707,Diesel,Dealer,Automatic,0
+fortuner,2015,27710.84,36879.52,40000,Diesel,Dealer,Automatic,0
+innova,2017,21686.75,23819.28,15000,Diesel,Dealer,Automatic,0
+fortuner,2013,19277.11,36879.52,135000,Diesel,Individual,Automatic,0
+innova,2005,3313.25,12301.2,90000,Petrol,Individual,Manual,0
+corolla altis,2009,4337.35,18120.48,70000,Petrol,Dealer,Automatic,0
+etios cross,2015,5421.69,8759.04,40534,Petrol,Dealer,Manual,0
+corolla altis,2010,5722.89,22337.35,50000,Petrol,Dealer,Manual,0
+etios g,2014,4939.76,8192.77,39485,Petrol,Dealer,Manual,1
+fortuner,2014,24084.34,43325.3,41000,Diesel,Dealer,Automatic,0
+corolla altis,2013,8373.49,22421.69,40001,Petrol,Dealer,Manual,0
+etios cross,2015,5421.69,9277.11,40588,Petrol,Dealer,Manual,0
+fortuner,2014,22590.36,43325.3,78000,Diesel,Dealer,Automatic,0
+fortuner,2015,28313.25,43325.3,47000,Diesel,Dealer,Automatic,0
+fortuner,2017,39759.04,43650.6,6000,Diesel,Dealer,Automatic,0
+etios liva,2014,5722.89,8373.49,45000,Diesel,Dealer,Manual,0
+innova,2017,23795.18,27891.57,11000,Petrol,Dealer,Automatic,0
+fortuner,2010,11144.58,24638.55,59000,Diesel,Dealer,Manual,0
+corolla altis,2011,5240.96,16554.22,88000,Petrol,Dealer,Manual,0
+corolla altis,2016,17168.67,25192.77,12000,Petrol,Dealer,Manual,0
+etios liva,2014,4759.04,8144.58,71000,Diesel,Dealer,Manual,0
+corolla altis,2011,5421.69,15036.14,45000,Diesel,Dealer,Manual,0
+corolla altis,2013,8975.9,22421.69,56001,Petrol,Dealer,Manual,0
+etios liva,2011,3192.77,6879.52,43000,Petrol,Dealer,Manual,0
+etios cross,2014,5903.61,10759.04,83000,Diesel,Dealer,Manual,0
+etios g,2015,4759.04,8192.77,36000,Petrol,Dealer,Manual,0
+corolla altis,2013,6626.51,17686.75,72000,Petrol,Dealer,Manual,0
+corolla,2004,1807.23,14879.52,135154,Petrol,Dealer,Automatic,0
+corolla altis,2010,6325.3,27506.02,80000,Petrol,Dealer,Automatic,0
+fortuner,2012,17469.88,36879.52,89000,Diesel,Dealer,Automatic,0
+corolla altis,2016,17746.99,17939.76,23000,Diesel,Dealer,Manual,0
+etios gd,2015,5722.89,9457.83,40000,Diesel,Dealer,Manual,0
+innova,2017,27710.84,30590.36,15000,Diesel,Dealer,Automatic,0
+innova,2015,15060.24,16216.87,38000,Diesel,Dealer,Manual,0
+innova,2005,4204.82,16216.87,197176,Diesel,Dealer,Manual,0
+camry,2006,3012.05,28590.36,142000,Petrol,Individual,Automatic,3
+land cruiser,2010,42168.67,111566.27,78000,Diesel,Dealer,Manual,0
+corolla altis,2012,7108.43,16554.22,56000,Petrol,Dealer,Manual,0
+etios liva,2013,4156.63,7289.16,47000,Petrol,Dealer,Manual,0
+etios g,2014,5722.89,8144.58,40000,Petrol,Dealer,Manual,0
+corolla altis,2009,4578.31,22421.69,62000,Petrol,Dealer,Manual,0
+innova,2014,13554.22,19385.54,58242,Diesel,Dealer,Manual,0
+innova,2005,4228.92,16506.02,75000,Petrol,Dealer,Manual,0
+fortuner,2015,27710.84,36879.52,40000,Diesel,Dealer,Automatic,0
+corolla altis,2008,4819.28,27445.78,89000,Petrol,Dealer,Automatic,0
+corolla altis,2012,7048.19,22421.69,72000,Petrol,Dealer,Manual,0
+innova,2016,25000.0,30590.36,29000,Diesel,Dealer,Automatic,0
+corolla altis,2017,20481.93,22457.83,8700,Petrol,Dealer,Manual,0
+corolla altis,2013,8493.98,22421.69,45000,Petrol,Dealer,Manual,0
+fortuner,2010,11626.51,24638.55,50024,Diesel,Dealer,Manual,0
+Royal Enfield Thunder 500,2016,2108.43,2289.16,3000,Petrol,Individual,Manual,0
+UM Renegade Mojave,2017,2048.19,2192.77,1400,Petrol,Individual,Manual,0
+KTM RC200,2017,1987.95,2144.58,4000,Petrol,Individual,Manual,0
+Bajaj Dominar 400,2017,1746.99,1927.71,1200,Petrol,Individual,Manual,0
+Royal Enfield Classic 350,2017,1626.51,1771.08,4100,Petrol,Individual,Manual,0
+KTM RC390,2015,1626.51,2855.42,21700,Petrol,Individual,Manual,0
+Hyosung GT250R,2014,1626.51,4156.63,16500,Petrol,Individual,Manual,1
+Royal Enfield Thunder 350,2013,1506.02,1807.23,15000,Petrol,Individual,Manual,0
+Royal Enfield Thunder 350,2016,1445.78,1807.23,18000,Petrol,Individual,Manual,0
+Royal Enfield Classic 350,2017,1445.78,1771.08,11000,Petrol,Individual,Manual,0
+KTM RC200,2016,1445.78,2144.58,6000,Petrol,Individual,Manual,0
+Royal Enfield Thunder 350,2016,1385.54,1807.23,8700,Petrol,Individual,Manual,0
+KTM 390 Duke ,2014,1385.54,2891.57,7000,Petrol,Individual,Manual,0
+Mahindra Mojo XT300,2016,1385.54,1686.75,35000,Petrol,Individual,Manual,0
+Royal Enfield Classic 350,2015,1385.54,1771.08,17000,Petrol,Individual,Manual,0
+Royal Enfield Classic 350,2015,1337.35,1771.08,17500,Petrol,Individual,Manual,0
+Royal Enfield Classic 350,2013,1325.3,1771.08,33000,Petrol,Individual,Manual,0
+Royal Enfield Thunder 500,2015,1325.3,2289.16,14000,Petrol,Individual,Manual,0
+Royal Enfield Classic 350,2015,1325.3,1771.08,26000,Petrol,Individual,Manual,0
+Royal Enfield Thunder 500,2013,1265.06,2289.16,5400,Petrol,Individual,Manual,0
+Bajaj Pulsar RS200,2016,1265.06,1518.07,5700,Petrol,Individual,Manual,0
+Royal Enfield Thunder 350,2011,1265.06,1807.23,6900,Petrol,Individual,Manual,0
+Royal Enfield Bullet 350,2016,1265.06,1409.64,6000,Petrol,Individual,Manual,0
+Royal Enfield Classic 350,2013,1204.82,1771.08,46500,Petrol,Individual,Manual,0
+Royal Enfield Classic 500,2012,1144.58,2108.43,11500,Petrol,Individual,Manual,0
+Royal Enfield Classic 500,2009,1084.34,2108.43,40000,Petrol,Individual,Manual,0
+Bajaj Avenger 220,2017,1084.34,1144.58,1300,Petrol,Individual,Manual,0
+Bajaj Avenger 150,2016,903.61,963.86,7000,Petrol,Individual,Manual,0
+Honda CB Hornet 160R,2017,963.86,1048.19,3000,Petrol,Individual,Manual,0
+Yamaha FZ S V 2.0,2017,939.76,1012.05,5000,Petrol,Individual,Manual,0
+Honda CB Hornet 160R,2017,903.61,1048.19,11000,Petrol,Individual,Manual,0
+Yamaha FZ 16,2015,903.61,987.95,18000,Petrol,Individual,Manual,0
+Bajaj Avenger 220,2017,903.61,1144.58,3500,Petrol,Individual,Manual,0
+Bajaj Avenger 220,2016,867.47,1144.58,500,Petrol,Individual,Manual,0
+TVS Apache RTR 160,2017,783.13,975.9,11800,Petrol,Individual,Manual,0
+Bajaj Pulsar 150,2015,783.13,891.57,5000,Petrol,Individual,Manual,0
+Honda CBR 150,2014,783.13,1445.78,23500,Petrol,Individual,Manual,0
+Hero Extreme,2013,783.13,948.19,16000,Petrol,Individual,Manual,0
+Honda CB Hornet 160R,2016,722.89,1048.19,15000,Petrol,Individual,Manual,0
+Bajaj Avenger 220 dtsi,2015,722.89,1144.58,16600,Petrol,Individual,Manual,0
+Honda CBR 150,2013,722.89,1445.78,32000,Petrol,Individual,Manual,0
+Bajaj Avenger 150 street,2016,722.89,963.86,20000,Petrol,Individual,Manual,0
+Yamaha FZ  v 2.0,2015,722.89,1012.05,29000,Petrol,Individual,Manual,0
+Yamaha FZ  v 2.0,2016,722.89,1012.05,25000,Petrol,Individual,Manual,0
+Bajaj Pulsar  NS 200,2014,722.89,1192.77,25000,Petrol,Individual,Manual,0
+TVS Apache RTR 160,2012,722.89,975.9,19000,Petrol,Individual,Manual,0
+Hero Extreme,2014,662.65,948.19,15000,Petrol,Individual,Manual,0
+Yamaha FZ S V 2.0,2015,662.65,1012.05,58000,Petrol,Individual,Manual,0
+Bajaj Pulsar 220 F,2010,626.51,1132.53,45000,Petrol,Individual,Manual,0
+Bajaj Pulsar 220 F,2016,614.46,1132.53,24000,Petrol,Individual,Manual,0
+TVS Apache RTR 180,2011,602.41,995.18,6000,Petrol,Individual,Manual,0
+Hero Passion X pro,2016,602.41,662.65,31000,Petrol,Individual,Manual,0
+Bajaj Pulsar NS 200,2012,602.41,1192.77,13000,Petrol,Individual,Manual,0
+Bajaj Pulsar NS 200,2013,602.41,1192.77,45000,Petrol,Individual,Manual,0
+Yamaha Fazer ,2014,602.41,1060.24,8000,Petrol,Individual,Manual,0
+Honda Activa 4G,2017,578.31,614.46,4300,Petrol,Individual,Automatic,0
+TVS Sport ,2017,578.31,626.51,15000,Petrol,Individual,Manual,0
+Yamaha FZ S V 2.0,2015,578.31,1012.05,23000,Petrol,Individual,Manual,0
+Honda Dream Yuga ,2017,578.31,650.6,8600,Petrol,Individual,Manual,0
+Honda Activa 4G,2017,542.17,614.46,4000,Petrol,Individual,Automatic,0
+Bajaj Avenger Street 220,2011,542.17,1144.58,24000,Petrol,Individual,Manual,0
+TVS Apache RTR 180,2014,542.17,995.18,23000,Petrol,Individual,Manual,0
+Bajaj Pulsar NS 200,2012,542.17,1192.77,14500,Petrol,Individual,Manual,0
+Bajaj Avenger 220 dtsi,2010,542.17,1144.58,27000,Petrol,Individual,Manual,0
+Hero Splender iSmart,2016,542.17,650.6,14000,Petrol,Individual,Manual,0
+Activa 3g,2016,542.17,650.6,500,Petrol,Individual,Automatic,0
+Hero Passion Pro,2016,542.17,662.65,1000,Petrol,Individual,Manual,0
+TVS Apache RTR 160,2014,506.02,975.9,42000,Petrol,Individual,Manual,0
+Honda CB Trigger,2013,506.02,879.52,12000,Petrol,Individual,Manual,0
+Hero Splender iSmart,2015,481.93,650.6,14000,Petrol,Individual,Manual,0
+Yamaha FZ S ,2012,481.93,1000.0,5500,Petrol,Individual,Manual,0
+Hero Passion Pro,2015,481.93,662.65,6700,Petrol,Individual,Manual,0
+Bajaj Pulsar 135 LS,2014,481.93,771.08,13700,Petrol,Individual,Manual,0
+Activa 4g,2017,481.93,614.46,1300,Petrol,Individual,Automatic,0
+Honda CB Unicorn,2015,457.83,867.47,38600,Petrol,Individual,Manual,0
+Hero Honda CBZ extreme,2011,457.83,948.19,75000,Petrol,Individual,Manual,0
+Honda Karizma,2011,421.69,1265.06,30000,Petrol,Individual,Manual,0
+Honda Activa 125,2016,421.69,686.75,24000,Petrol,Individual,Automatic,0
+TVS Jupyter,2014,421.69,626.51,19000,Petrol,Individual,Automatic,0
+Honda Karizma,2010,373.49,1265.06,213000,Petrol,Individual,Manual,0
+Hero Honda Passion Pro,2012,361.45,614.46,60000,Petrol,Individual,Manual,0
+Hero Splender Plus,2016,361.45,578.31,50000,Petrol,Individual,Manual,0
+Honda CB Shine,2013,361.45,698.8,30000,Petrol,Individual,Manual,0
+Bajaj Discover 100,2013,325.3,566.27,21000,Petrol,Individual,Manual,0
+Bajaj Pulsar 150,2008,301.2,903.61,26000,Petrol,Individual,Manual,1
+Suzuki Access 125,2008,301.2,698.8,1900,Petrol,Individual,Automatic,0
+TVS Wego,2010,301.2,626.51,22000,Petrol,Individual,Automatic,0
+Honda CB twister,2013,301.2,614.46,32000,Petrol,Individual,Manual,0
+Hero Glamour,2013,301.2,686.75,18000,Petrol,Individual,Manual,0
+Hero Super Splendor,2005,240.96,686.75,55000,Petrol,Individual,Manual,0
+Bajaj Pulsar 150,2008,240.96,903.61,60000,Petrol,Individual,Manual,0
+Bajaj Discover 125,2012,240.96,686.75,25000,Petrol,Individual,Manual,1
+Hero Hunk,2007,240.96,903.61,49000,Petrol,Individual,Manual,1
+Hero  Ignitor Disc,2013,240.96,783.13,24000,Petrol,Individual,Manual,1
+Hero  CBZ Xtreme,2008,240.96,948.19,50000,Petrol,Individual,Manual,0
+Bajaj  ct 100,2015,216.87,385.54,35000,Petrol,Individual,Manual,0
+Activa 3g,2008,204.82,626.51,500000,Petrol,Individual,Automatic,0
+Honda CB twister,2010,192.77,614.46,33000,Petrol,Individual,Manual,0
+Bajaj Discover 125,2011,180.72,686.75,35000,Petrol,Individual,Manual,1
+Honda CB Shine,2007,144.58,698.8,53000,Petrol,Individual,Manual,0
+Bajaj Pulsar 150,2006,120.48,903.61,92233,Petrol,Individual,Manual,0
+i20,2010,3915.66,8180.72,58000,Diesel,Dealer,Manual,1
+grand i10,2015,5301.2,6867.47,28200,Petrol,Dealer,Manual,0
+i10,2011,3554.22,5542.17,53460,Petrol,Dealer,Manual,0
+eon,2015,3313.25,5337.35,28282,Petrol,Dealer,Manual,0
+grand i10,2016,6325.3,6867.47,3493,Petrol,Dealer,Manual,1
+xcent,2017,6927.71,8590.36,12479,Petrol,Dealer,Manual,0
+grand i10,2015,6204.82,6867.47,34797,Petrol,Dealer,Automatic,0
+i20,2017,9518.07,9759.04,3435,Petrol,Dealer,Manual,0
+grand i10,2015,5843.37,6867.47,21125,Diesel,Dealer,Manual,0
+i10,2012,3734.94,5542.17,35775,Petrol,Dealer,Manual,0
+elantra,2015,14156.63,17819.28,43535,Diesel,Dealer,Manual,0
+creta,2016,13554.22,16385.54,22671,Petrol,Dealer,Manual,0
+i20,2011,3493.98,8180.72,31604,Petrol,Dealer,Manual,0
+grand i10,2017,6325.3,6867.47,20114,Petrol,Dealer,Manual,0
+verna,2012,5421.69,11325.3,36100,Petrol,Dealer,Manual,0
+eon,2016,3493.98,5337.35,12500,Petrol,Dealer,Manual,0
+eon,2016,3795.18,5337.35,15000,Petrol,Dealer,Manual,0
+verna,2014,7771.08,11325.3,45078,Petrol,Dealer,Manual,0
+verna,2012,5421.69,11325.3,36000,Petrol,Dealer,Manual,0
+eon,2017,4216.87,5337.35,38488,Petrol,Dealer,Manual,0
+i20,2013,5421.69,8180.72,32000,Petrol,Dealer,Automatic,0
+i20,2014,7228.92,9156.63,77632,Diesel,Dealer,Manual,0
+verna,2015,9939.76,11325.3,61381,Diesel,Dealer,Manual,0
+verna,2013,6156.63,11325.3,36198,Petrol,Dealer,Automatic,0
+i10,2011,3253.01,5542.17,22517,Petrol,Dealer,Manual,0
+grand i10,2015,6325.3,6867.47,24678,Petrol,Dealer,Manual,0
+i10,2011,3072.29,5337.35,57000,Petrol,Dealer,Manual,0
+verna,2012,5963.86,11325.3,60000,Diesel,Dealer,Manual,0
+i20,2012,3734.94,8180.72,52132,Diesel,Dealer,Manual,0
+verna,2013,7409.64,11325.3,45000,Diesel,Dealer,Manual,0
+verna,2017,11144.58,11325.3,15001,Petrol,Dealer,Manual,0
+elantra,2015,13795.18,17819.28,12900,Petrol,Dealer,Automatic,0
+grand i10,2013,4698.8,6867.47,53000,Diesel,Dealer,Manual,0
+grand i10,2015,6626.51,6867.47,4492,Petrol,Dealer,Manual,0
+verna,2017,10963.86,11325.3,15141,Petrol,Dealer,Manual,0
+eon,2016,3734.94,5337.35,11849,Petrol,Dealer,Manual,0
+creta,2015,13554.22,16385.54,68000,Diesel,Dealer,Manual,0
+verna,2013,5783.13,11325.3,60241,Petrol,Dealer,Manual,0
+eon,2012,2409.64,5337.35,23709,Petrol,Dealer,Manual,0
+verna,2012,6445.78,11325.3,32322,Diesel,Dealer,Manual,0
+xcent,2015,5722.89,8590.36,35866,Petrol,Dealer,Manual,1
+xcent,2014,5301.2,8590.36,34000,Petrol,Dealer,Manual,0
+i20,2016,7530.12,9156.63,7000,Petrol,Dealer,Manual,0
+verna,2013,7168.67,11325.3,49000,Diesel,Dealer,Manual,0
+verna,2012,6265.06,11325.3,71000,Diesel,Dealer,Manual,0
+i20,2012,4518.07,8180.72,35000,Petrol,Dealer,Manual,0
+verna,2015,7168.67,11325.3,36000,Petrol,Dealer,Manual,0
+i10,2013,4819.28,5542.17,30000,Petrol,Dealer,Manual,0
+i20,2016,6325.3,9156.63,17000,Petrol,Dealer,Manual,0
+creta,2016,15542.17,16385.54,35934,Diesel,Dealer,Manual,0
+city,2013,6024.1,11927.71,56701,Petrol,Dealer,Manual,0
+brio,2015,6506.02,8216.87,31427,Petrol,Dealer,Automatic,0
+city,2014,8674.7,11927.71,48000,Diesel,Dealer,Manual,0
+city,2013,6325.3,11927.71,54242,Petrol,Dealer,Manual,0
+brio,2012,3614.46,6445.78,53675,Petrol,Dealer,Manual,0
+city,2016,12349.4,16385.54,49562,Petrol,Dealer,Manual,0
+city,2015,10240.96,16385.54,40324,Petrol,Dealer,Manual,0
+city,2015,10120.48,16385.54,25000,Petrol,Dealer,Manual,0
+amaze,2014,4698.8,8433.73,36054,Petrol,Dealer,Manual,0
+city,2016,11024.1,16385.54,29223,Petrol,Dealer,Manual,0
+brio,2016,6626.51,7192.77,5600,Petrol,Dealer,Manual,0
+amaze,2015,4819.28,6987.95,40023,Petrol,Dealer,Manual,0
+jazz,2016,7951.81,9277.11,16002,Petrol,Dealer,Manual,0
+amaze,2015,4819.28,8433.73,40026,Petrol,Dealer,Manual,0
+jazz,2017,7831.33,10481.93,21200,Petrol,Dealer,Manual,0
+amaze,2014,4397.59,8433.73,35000,Petrol,Dealer,Manual,0
+city,2016,10060.24,11325.3,19434,Diesel,Dealer,Manual,0
+brio,2017,5783.13,6987.95,19000,Petrol,Dealer,Manual,0
+city,2015,8072.29,12048.19,18828,Petrol,Dealer,Manual,0
+city,2011,4939.76,12048.19,69341,Petrol,Dealer,Manual,0
+city,2009,3614.46,12048.19,69562,Petrol,Dealer,Manual,0
+city,2015,9036.14,12048.19,27600,Petrol,Dealer,Manual,0
+jazz,2010,2710.84,9036.14,61203,Petrol,Dealer,Manual,0
+brio,2014,6385.54,8192.77,16500,Petrol,Dealer,Manual,0
+city,2016,13132.53,16385.54,30753,Petrol,Dealer,Automatic,0
+city,2015,10421.69,16385.54,24800,Petrol,Dealer,Manual,0
+city,2015,11686.75,16385.54,21780,Petrol,Dealer,Manual,0
+jazz,2016,7228.92,10120.48,4000,Petrol,Dealer,Manual,0
+city,2014,7530.12,16385.54,40126,Petrol,Dealer,Manual,0
+brio,2015,6325.3,7108.43,14465,Petrol,Dealer,Manual,0
+city,2006,2530.12,9156.63,50456,Petrol,Dealer,Manual,0
+city,2014,9939.76,16867.47,63000,Diesel,Dealer,Manual,0
+city,2016,10831.33,14216.87,9010,Petrol,Dealer,Manual,0
+brio,2013,4216.87,7108.43,9800,Petrol,Dealer,Manual,0
+jazz,2016,8915.66,10240.96,15059,Petrol,Dealer,Automatic,0
+jazz,2016,6807.23,9518.07,28569,Petrol,Dealer,Manual,0
+amaze,2015,6927.71,9036.14,44000,Petrol,Dealer,Automatic,0
+city,2015,10120.48,16385.54,34000,Petrol,Dealer,Manual,0
+city,2016,12180.72,16385.54,10980,Petrol,Dealer,Manual,0
+amaze,2014,5421.69,7710.84,19000,Petrol,Dealer,Manual,0
+brio,2015,6506.02,7349.4,31427,Petrol,Dealer,Manual,0
+jazz,2016,7710.84,10120.48,12000,Petrol,Dealer,Manual,0
+city,2010,3915.66,11927.71,38000,Petrol,Dealer,Manual,0
+amaze,2014,4518.07,8192.77,33019,Petrol,Dealer,Manual,0
+city,2015,10301.2,15771.08,60076,Diesel,Dealer,Manual,0
+city,2016,11445.78,13975.9,33988,Diesel,Dealer,Manual,0
+brio,2015,4819.28,7108.43,60000,Petrol,Dealer,Manual,0
+city,2009,4036.14,13253.01,87934,Petrol,Dealer,Manual,0
+city,2017,13855.42,15060.24,9000,Diesel,Dealer,Manual,0
+brio,2016,6385.54,7108.43,5464,Petrol,Dealer,Manual,0
+tata altroz,2023,11266.54,13208.0,14884,Petrol,Individual,Manual,0
+volkswagen polo,2014,2128.69,2486.64,112504,Petrol,Dealer,Manual,0
+volkswagen atlas,2016,3565.02,4599.37,122878,Diesel,Dealer,Manual,1
+volkswagen polo,2021,11543.2,13436.89,42523,Diesel,Dealer,Manual,0
+mazda mazda6,2019,9438.55,11132.83,80387,CNG,Individual,Automatic,0
+mahindra kuv100,2014,1784.82,1949.07,93656,Petrol,Dealer,Automatic,0
+ford f-150,2008,636.14,771.18,235349,Petrol,Individual,Automatic,0
+volkswagen arteon,2021,12323.84,13786.97,42943,Petrol,Individual,Manual,0
+nissan pathfinder,2023,14763.24,17158.11,17762,Petrol,Individual,Manual,0
+toyota highlander,2018,8889.66,11104.83,122863,Diesel,Dealer,Manual,0
+volkswagen passat,2019,4785.73,5569.23,64602,Petrol,Individual,Manual,0
+toyota sequoia,2019,7422.4,8041.09,35267,Petrol,Dealer,Manual,0
+mahindra marazzo,2013,2456.98,3189.95,118450,Petrol,Dealer,Manual,0
+gmc sierra,2023,9083.09,10151.98,21306,Petrol,Individual,Manual,0
+tata altroz,2011,2127.16,2628.78,189332,CNG,Dealer,Automatic,0
+kia sorento,2021,5656.64,6214.43,37528,Diesel,Individual,Manual,0
+tata harrier,2021,10735.0,11619.01,54272,Diesel,Dealer,Manual,1
+toyota prius,2022,19346.93,21359.02,40911,Petrol,Individual,Automatic,0
+gmc sierra,2013,2198.05,2751.75,257494,Petrol,Dealer,Manual,0
+toyota prius,2013,2337.17,2766.03,152957,Diesel,Dealer,Manual,1
+mercedes s-class,2023,25926.72,28403.52,15570,Diesel,Individual,Automatic,0
+kia seltos,2010,2642.37,3165.56,353063,Petrol,Individual,Automatic,0
+audi q5,2024,66622.64,70652.79,100,Petrol,Dealer,Manual,0
+honda fit,2016,5946.82,6461.48,95581,Petrol,Individual,Manual,0
+chevrolet equinox,2015,1439.75,1701.52,159645,Petrol,Dealer,Automatic,0
+audi q3,2016,5434.26,6421.26,87560,Diesel,Individual,Manual,3
+maruti swift,2021,2824.14,3516.78,37610,Petrol,Dealer,Manual,2
+chevrolet equinox,2020,13115.01,14115.75,53010,Petrol,Dealer,Automatic,0
+chevrolet silverado,2017,2502.2,2622.48,85453,Diesel,Dealer,Automatic,1
+hyundai grand i10,2016,578.86,665.89,79374,Petrol,Individual,Manual,0
+mazda mazda3,2017,5014.63,6465.39,131701,Diesel,Dealer,Manual,0
+honda civic,2021,13523.07,16148.76,59079,Diesel,Dealer,Manual,2
+toyota corolla,2019,10008.46,11349.54,53152,Petrol,Individual,Manual,0
+mercedes e-class,2015,5077.84,6228.93,144396,Petrol,Individual,Manual,1
+maruti s-cross,2018,1778.87,2234.73,103668,Diesel,Individual,Manual,0
+nissan frontier,2016,1286.13,1637.78,138582,Petrol,Dealer,Manual,0
+ford edge,2023,9637.73,11054.08,12793,Petrol,Individual,Manual,0
+tata tiago,2022,8029.14,9659.73,32303,Petrol,Individual,Manual,3
+chevrolet silverado,2012,3860.82,4931.21,110991,Diesel,Dealer,Manual,2
+mazda mazda3,2023,15749.0,17909.52,25781,Petrol,Dealer,Automatic,1
+tata tigor,2018,3230.01,3463.77,45746,Petrol,Individual,Automatic,0
+toyota sequoia,2021,15095.34,18852.6,35162,Petrol,Individual,Manual,3
+maruti vitara brezza,2018,6986.97,8299.01,158247,Petrol,Individual,Manual,1
+kia telluride,2022,11166.68,11851.38,33523,Petrol,Dealer,Manual,1
+ford escape,2024,25599.54,30208.51,100,Diesel,Dealer,Automatic,2
+audi a4,2017,11689.69,14522.11,168807,Petrol,Dealer,Manual,2
+maruti xl6,2016,2652.23,3444.33,197286,Petrol,Dealer,Manual,0
+hyundai verna,2018,1063.14,1400.01,127830,Diesel,Dealer,Manual,2
+mercedes c-class,2019,25940.92,29019.73,88401,Petrol,Individual,Manual,1
+mercedes glc,2017,11889.25,12275.37,70428,Diesel,Individual,Automatic,0
+hyundai i20,2018,3302.98,3862.92,92439,Petrol,Individual,Manual,0
+mazda mazda6,2022,10556.29,11400.06,32046,Petrol,Individual,Manual,0
+nissan frontier,2017,3885.44,4682.34,133646,Diesel,Dealer,Automatic,0
+nissan sentra,2021,8721.28,9306.42,37534,Petrol,Dealer,Manual,0
+chevrolet camaro,2011,747.37,944.4,210945,Petrol,Dealer,Automatic,0
+audi a8,2022,19225.04,21814.82,33895,Petrol,Individual,Manual,1
+tata tigor,2020,5168.63,5492.24,32281,Petrol,Individual,Manual,0
+mercedes gle,2014,6240.74,7664.63,142806,Petrol,Individual,Manual,0
+mahindra xuv500,2018,8095.51,8728.63,90192,Petrol,Dealer,Manual,1
+hyundai tucson,2017,1284.97,1566.46,155800,Diesel,Dealer,Automatic,0
+mahindra marazzo,2022,6819.56,7336.87,35539,Diesel,Individual,Manual,1
+chevrolet traverse,2020,4510.59,5144.39,47823,Petrol,Individual,Automatic,1
+bmw x3,2019,14011.11,14931.96,81719,Petrol,Individual,Manual,1
+audi q8,2019,23245.88,25009.02,97789,Diesel,Individual,Manual,0
+nissan sentra,2022,15032.84,16368.86,43193,Diesel,Dealer,Manual,1
+chevrolet camaro,2019,7313.98,7998.11,81897,Diesel,Individual,Manual,1
+audi a8,2018,7614.05,8455.76,56005,Petrol,Individual,Manual,0
+mercedes gla,2018,8221.86,10019.31,142112,Diesel,Individual,Manual,1
+chevrolet silverado,2012,1490.21,1715.29,201545,Petrol,Dealer,Manual,1
+nissan sentra,2018,4363.89,5187.65,110067,Diesel,Individual,Manual,1
+gmc acadia,2022,11465.79,12671.3,19385,Diesel,Dealer,Automatic,1
+toyota tacoma,2010,1652.45,1940.94,128203,Diesel,Individual,Manual,0
+tata nexon,2016,3723.14,4387.65,109045,Diesel,Dealer,Automatic,0
+chevrolet traverse,2016,3059.12,3729.89,104392,Petrol,Dealer,Manual,1
+hyundai venue,2022,3810.98,3963.72,37566,Diesel,Dealer,Automatic,0
+bmw 2 series,2018,11974.19,13509.63,114362,Diesel,Dealer,Automatic,0
+mercedes glc,2010,1277.67,1647.78,303518,Petrol,Dealer,Manual,0
+kia sonet,2015,6226.02,7174.46,157235,Petrol,Dealer,Automatic,0
+mahindra marazzo,2019,2317.37,2680.81,42169,Diesel,Dealer,Manual,0
+gmc acadia,2023,11812.25,12596.75,9746,Petrol,Dealer,Manual,0
+nissan rogue,2019,10852.01,13691.37,100971,Diesel,Dealer,Manual,0
+ford mustang,2021,18235.84,20680.5,38934,Diesel,Dealer,Manual,3
+honda cr-v,2018,8150.7,10167.01,119680,Diesel,Dealer,Manual,0
+hyundai i20,2018,5715.86,6677.42,139239,Petrol,Dealer,Manual,0
+gmc sierra,2015,2991.49,3584.29,187582,Diesel,Individual,Manual,0
+hyundai i10,2011,1646.2,2023.95,230632,Petrol,Dealer,Manual,0
+honda hr-v,2019,7148.8,8545.31,115338,Petrol,Dealer,Manual,0
+chevrolet malibu,2012,986.49,1248.63,114829,Petrol,Individual,Manual,1
+volkswagen tiguan,2015,2016.6,2752.26,158669,Petrol,Individual,Manual,2
+mahindra marazzo,2021,2972.53,3474.23,56360,Diesel,Dealer,Manual,1
+audi q8,2020,25189.76,31269.35,96274,Petrol,Individual,Manual,2
+honda pilot,2021,6236.35,7510.32,33890,Petrol,Dealer,Manual,2
+mahindra scorpio,2020,7174.31,7414.85,38507,Petrol,Individual,Automatic,1
+chevrolet malibu,2009,737.68,868.06,333400,Diesel,Individual,Automatic,1
+maruti celerio,2019,3072.64,3629.22,105853,Petrol,Dealer,Manual,1
+ford f-150,2022,19877.07,21815.5,8740,Petrol,Dealer,Automatic,0
+tata hexa,2022,3609.12,3874.15,35941,Diesel,Dealer,Automatic,0
+ford f-150,2023,17669.94,20217.86,22317,Diesel,Dealer,Manual,2
+nissan maxima,2018,9562.44,11238.26,149190,Diesel,Dealer,Automatic,1
+gmc acadia,2017,4727.01,5283.14,66007,Petrol,Dealer,Automatic,2
+hyundai kona,2019,6423.0,7474.26,46901,Diesel,Individual,Manual,0
+nissan armada,2019,6490.92,7180.54,86415,Diesel,Dealer,Automatic,2
+bmw x3,2014,15889.96,20164.79,239704,Diesel,Individual,Manual,0
+maruti wagonr,2013,895.16,1182.79,237812,Petrol,Dealer,Manual,2
+audi a6,2019,18462.06,19645.73,84359,Petrol,Individual,Manual,1
+mazda cx-9,2019,6312.66,6677.06,46861,Diesel,Dealer,Manual,0
+honda pilot,2019,3360.7,3939.18,87378,Petrol,Individual,Manual,2
+mazda mazda3,2012,3735.71,4260.3,269416,Diesel,Dealer,Automatic,1
+nissan altima,2023,11190.2,14030.58,10686,CNG,Individual,Manual,2
+honda cr-v,2009,452.24,556.71,287391,Diesel,Dealer,Automatic,0
+audi q5,2021,30891.66,32263.46,58090,Diesel,Individual,Automatic,0
+volkswagen atlas,2017,7851.02,8680.17,81478,Petrol,Dealer,Manual,0
+mahindra bolero,2011,343.1,390.11,203102,Diesel,Individual,Automatic,0
+toyota sequoia,2018,13670.17,14914.39,47394,Petrol,Dealer,Automatic,0
+ford f-150,2021,5159.77,5996.09,45408,Petrol,Individual,Automatic,2
+ford edge,2019,8825.75,10335.59,60507,Diesel,Individual,Automatic,2
+kia sportage,2019,7855.19,9716.65,103727,Petrol,Individual,Manual,0
+nissan versa,2017,1793.66,2279.78,144448,Petrol,Dealer,Manual,2
+mahindra xuv500,2018,6165.55,7124.71,49467,Petrol,Individual,Manual,0
+maruti vitara brezza,2020,1612.27,1812.8,81834,Petrol,Dealer,Manual,1
+audi a6,2020,19242.22,21221.18,70154,Diesel,Dealer,Automatic,0
+mercedes s-class,2018,16485.28,18654.04,82385,Petrol,Dealer,Manual,0
+tata tigor,2019,2869.65,3330.49,71767,Diesel,Dealer,Manual,0
+hyundai aura,2017,2012.86,2362.33,134181,Petrol,Dealer,Automatic,0
+gmc canyon,2016,520.84,607.25,140093,Diesel,Dealer,Manual,0
+maruti vitara brezza,2010,726.22,874.69,269172,Petrol,Dealer,Manual,0
+honda ridgeline,2019,4900.11,5724.31,33754,Petrol,Dealer,Manual,1
+volkswagen arteon,2013,1482.23,1871.18,125738,Petrol,Dealer,Automatic,1
+gmc yukon,2008,329.89,408.62,195326,Petrol,Individual,Automatic,1
+kia sorento,2018,8712.75,9066.79,84388,Diesel,Dealer,Automatic,0
+audi a4,2012,3094.03,3930.62,233211,Petrol,Individual,Manual,2
+toyota tacoma,2016,3902.12,4819.48,157889,Petrol,Dealer,Manual,0
+mercedes s-class,2019,16754.82,18783.79,84305,Petrol,Dealer,Manual,1
+volkswagen atlas,2019,5527.29,7318.47,103390,Diesel,Individual,Manual,2
+volkswagen arteon,2014,3683.34,4390.84,233826,Petrol,Dealer,Manual,0
+mazda cx-3,2020,5908.01,6720.56,49135,Petrol,Dealer,Manual,0
+mahindra xuv500,2018,5198.07,6353.98,74071,Diesel,Dealer,Manual,2
+hyundai grand i10,2020,6393.38,6802.96,78731,Petrol,Individual,Automatic,0
+mahindra thar,2021,9519.16,10618.56,61176,Petrol,Dealer,Manual,0
+hyundai venue,2019,3533.12,3773.27,95008,Petrol,Dealer,Manual,1
+maruti dzire,2017,3656.93,4395.04,111837,Petrol,Dealer,Automatic,3
+mahindra bolero,2022,7868.22,9044.3,28043,Petrol,Dealer,Manual,0
+gmc canyon,2015,1019.99,1235.8,157223,Petrol,Dealer,Manual,0
+mazda mazda2,2018,5460.99,6677.5,60719,Diesel,Individual,Manual,3
+volkswagen jetta,2015,5203.96,6563.66,210451,CNG,Dealer,Automatic,0
+mazda cx-3,2015,2579.52,3235.47,190052,Diesel,Dealer,Manual,2
+bmw 5 series,2016,4618.93,5902.48,111399,Petrol,Individual,Automatic,2
+volkswagen golf,2016,3694.07,4316.15,124102,Petrol,Individual,Manual,0
+tata altroz,2021,2455.79,2832.3,44010,Petrol,Dealer,Manual,1
+mazda cx-5,2023,11165.08,12799.18,22629,Petrol,Dealer,Manual,1
+kia telluride,2019,5828.23,7633.01,117729,Petrol,Dealer,Manual,2
+honda insight,2014,2597.07,3280.24,165545,Diesel,Dealer,Manual,1
+mercedes glc,2013,4799.44,6017.59,224938,Petrol,Dealer,Manual,0
+maruti vitara brezza,2017,1741.48,2060.58,140576,Petrol,Dealer,Manual,0
+mercedes glc,2017,18355.03,20774.46,158796,Diesel,Dealer,Automatic,0
+kia sportage,2016,1981.78,2343.49,104125,Petrol,Dealer,Manual,1
+honda ridgeline,2021,16179.1,18130.72,53782,Petrol,Dealer,Manual,3
+toyota tacoma,2022,12889.54,14969.37,29734,Diesel,Dealer,Manual,1
+tata hexa,2022,11960.63,12637.46,19443,Petrol,Individual,Manual,0
+mazda mx-5,2016,3420.37,4530.06,128120,CNG,Individual,Automatic,3
+hyundai kona,2015,1954.58,2207.04,80184,Petrol,Dealer,Manual,1
+chevrolet colorado,2010,1166.09,1478.26,338716,Petrol,Individual,Manual,1
+volkswagen passat,2012,1685.31,2157.04,159782,Diesel,Individual,Manual,0
+mahindra bolero,2015,2509.42,3410.46,187008,Diesel,Individual,Manual,2
+mahindra kuv100,2020,1956.47,2391.12,77524,Diesel,Dealer,Manual,3
+audi a8,2018,10263.17,12811.16,127267,Petrol,Dealer,Manual,1
+tata altroz,2019,1663.26,2053.42,104003,Petrol,Individual,Automatic,0
+gmc sierra,2018,4681.82,5752.32,116651,Petrol,Dealer,Automatic,1
+hyundai i10,2008,301.54,374.28,335745,Diesel,Dealer,Manual,1
+chevrolet blazer,2014,2451.77,2949.56,109040,Petrol,Dealer,Manual,1
+toyota avalon,2021,13191.21,13919.08,47327,Diesel,Dealer,Manual,0
+nissan altima,2019,11445.53,12540.93,54182,Diesel,Individual,Manual,1
+mercedes gla,2020,12213.03,14361.79,45125,Diesel,Individual,Manual,2
+audi q5,2019,15237.31,17853.35,123389,Diesel,Individual,Manual,1
+gmc sierra,2018,2776.23,3377.78,109964,Petrol,Individual,Manual,1
+maruti xl6,2022,12129.06,12578.46,40991,Petrol,Individual,Automatic,1
+mercedes gle,2012,4599.29,5812.41,177093,Petrol,Dealer,Manual,0
+chevrolet traverse,2017,5849.37,7001.81,160594,Petrol,Individual,Manual,0
+honda civic,2020,12001.69,13522.15,41811,Petrol,Individual,Manual,1
+maruti xl6,2023,14282.54,15329.57,6008,Petrol,Dealer,Manual,1
+toyota camry,2020,8715.49,10074.36,61742,CNG,Dealer,Manual,1
+honda fit,2014,1079.07,1309.58,221023,Petrol,Individual,Manual,0
+tata tigor,2015,2657.72,3571.45,190894,Diesel,Dealer,Manual,3
+mazda cx-3,2008,738.26,884.99,158266,Petrol,Dealer,Automatic,1
+honda passport,2011,997.63,1173.08,176142,Petrol,Dealer,Manual,1
+volkswagen passat,2011,715.04,874.15,175243,Petrol,Dealer,Manual,1
+volkswagen atlas,2018,3347.51,4049.06,57107,Petrol,Dealer,Manual,2
+kia carnival,2015,1759.68,2223.32,200673,Diesel,Dealer,Automatic,3
+maruti ertiga,2020,2986.4,3422.2,49655,Petrol,Dealer,Automatic,1
+volkswagen golf,2015,4856.02,5616.7,214303,Diesel,Individual,Automatic,0
+hyundai verna,2021,9149.34,10069.47,48511,Diesel,Dealer,Automatic,0
+tata hexa,2018,5378.0,6820.48,121773,Diesel,Dealer,Manual,2
+mahindra xuv300,2019,3227.4,3669.0,58545,Petrol,Dealer,Automatic,0
+toyota avalon,2021,6624.4,7684.48,25123,Diesel,Individual,Manual,2
+mercedes gle,2016,22460.85,25546.01,88061,Petrol,Dealer,Manual,0
+mercedes glc,2021,27321.81,33877.38,57778,CNG,Individual,Manual,2
+mazda cx-3,2014,2330.41,2598.08,99842,Diesel,Dealer,Automatic,0
+ford escape,2010,1572.87,2080.01,319689,Petrol,Dealer,Automatic,2
+kia soul,2017,6799.32,7181.86,89632,Petrol,Dealer,Manual,1
+nissan altima,2010,2462.02,2876.46,346452,Diesel,Dealer,Automatic,0
+mazda mx-5,2013,1926.04,2282.76,272457,Diesel,Dealer,Manual,1
+mahindra scorpio,2017,788.38,1011.7,171719,Petrol,Individual,Manual,0
+nissan kicks,2023,6650.55,7165.82,6601,Petrol,Dealer,Manual,1
+gmc acadia,2012,2120.66,2613.93,164712,Diesel,Dealer,Manual,2
+ford f-150,2012,1775.71,2145.05,171805,Diesel,Individual,Manual,0
+volkswagen vento,2022,18541.31,20456.9,40383,Petrol,Individual,Automatic,1
+tata tigor,2015,987.3,1128.49,89168,Petrol,Dealer,Manual,0
+toyota tacoma,2016,5239.17,5980.02,170463,Diesel,Individual,Automatic,0
+ford bronco,2013,3211.42,3799.98,126793,Diesel,Individual,Automatic,1
+tata tiago,2016,844.73,1119.12,191587,Petrol,Dealer,Automatic,2
+mazda cx-5,2011,3320.05,4250.84,225211,Petrol,Dealer,Manual,0
+kia sonet,2016,6969.83,7976.37,72985,Petrol,Dealer,Manual,0
+audi q7,2016,13379.47,16436.07,140712,Petrol,Individual,Manual,1
+audi q7,2013,3851.02,5152.31,267277,CNG,Dealer,Manual,0
+gmc yukon,2016,2203.61,2859.92,106393,Diesel,Dealer,Manual,0
+ford f-150,2011,3072.37,3671.68,232226,Petrol,Individual,Automatic,0
+bmw 7 series,2014,3532.09,4331.1,227864,Petrol,Dealer,Manual,1
+toyota land cruiser,2024,13547.15,16113.21,100,Petrol,Individual,Automatic,2
+nissan pathfinder,2020,7952.36,8873.4,44338,Petrol,Dealer,Manual,2
+hyundai tucson,2012,627.66,763.89,261822,Diesel,Individual,Manual,0
+kia soul,2018,5213.08,6119.17,81754,Petrol,Dealer,Manual,1
+honda cr-v,2019,2751.14,3161.66,87000,Petrol,Individual,Manual,2
+mahindra thar,2015,1834.16,2221.74,114788,Diesel,Dealer,Automatic,1
+volkswagen passat,2016,8756.9,10068.08,159383,Diesel,Individual,Manual,1
+nissan altima,2016,2965.63,3341.37,150978,Petrol,Dealer,Automatic,1
+gmc terrain,2018,4827.91,5622.3,113199,Diesel,Dealer,Manual,1
+honda insight,2014,3248.1,3851.28,163541,Petrol,Individual,Manual,1
+hyundai tucson,2017,4399.62,5293.51,79119,CNG,Individual,Manual,1
+tata hexa,2017,3979.39,4748.77,122473,Petrol,Individual,Automatic,1
+bmw x3,2020,9661.62,10521.88,51401,Petrol,Dealer,Manual,0
+audi a4,2018,23613.99,25126.32,57554,Diesel,Dealer,Manual,0
+toyota rav4,2018,3974.57,4952.82,131223,Diesel,Individual,Manual,1
+toyota tacoma,2010,612.88,790.2,242169,Diesel,Dealer,Manual,0
+ford focus,2017,7610.52,9408.46,133538,Petrol,Dealer,Manual,3
+kia soul,2020,11048.13,12480.54,30763,Petrol,Individual,Manual,1
+mazda mx-5,2020,15648.41,17352.79,36080,Diesel,Dealer,Automatic,0
+hyundai elantra,2018,4831.35,5972.79,57272,Diesel,Dealer,Manual,2
+honda fit,2020,6122.75,6940.04,94967,Diesel,Dealer,Automatic,0
+chevrolet traverse,2020,8940.31,9594.4,58605,Diesel,Dealer,Manual,0
+tata hexa,2016,2256.67,2768.37,106889,Petrol,Individual,Manual,1
+mazda cx-30,2019,7443.1,8182.19,88347,Petrol,Dealer,Automatic,0
+bmw x7,2010,3319.86,4235.22,277617,CNG,Dealer,Manual,1
+hyundai grand i10,2014,1161.27,1409.97,207521,Petrol,Dealer,Automatic,2
+gmc terrain,2021,7082.5,8264.88,73576,Diesel,Dealer,Manual,0
+mazda cx-9,2014,2310.3,2584.48,79130,Petrol,Individual,Automatic,1
+mercedes e-class,2013,10205.06,12909.6,170161,Diesel,Dealer,Automatic,1
+honda fit,2012,4658.04,5832.73,212901,Petrol,Dealer,Manual,3
+honda insight,2008,831.28,1000.67,353349,Petrol,Individual,Manual,1
+chevrolet blazer,2020,9147.49,10617.38,51875,CNG,Individual,Automatic,1
+volkswagen vento,2018,8930.29,10563.15,122356,Diesel,Dealer,Manual,0
+bmw x3,2022,15433.26,16730.81,33494,Diesel,Dealer,Manual,0
+toyota camry,2024,30650.74,31688.6,100,Petrol,Individual,Automatic,1
+gmc terrain,2020,3490.95,3731.17,42123,Diesel,Dealer,Manual,0
+tata punch,2022,8634.28,9141.94,48300,Diesel,Individual,Automatic,0
+kia carnival,2019,12021.72,13702.7,35883,Diesel,Dealer,Manual,0
+bmw 2 series,2016,16641.61,20410.89,183096,Petrol,Dealer,Manual,1
+ford bronco,2019,15273.19,16407.12,52047,Petrol,Dealer,Manual,0
+volkswagen polo,2020,13581.22,14404.34,71341,Diesel,Individual,Automatic,0
+ford fusion,2017,2700.48,2940.93,83507,Petrol,Dealer,Automatic,0
+toyota tacoma,2017,5986.56,7457.18,106888,Diesel,Dealer,Manual,2
+toyota sequoia,2017,3257.39,3507.62,73551,Diesel,Dealer,Manual,0
+mazda cx-9,2013,1990.97,2429.99,111331,Diesel,Dealer,Manual,1
+kia telluride,2022,13139.04,14941.24,14550,Diesel,Individual,Manual,1
+toyota corolla,2018,6972.45,7360.13,93318,Petrol,Dealer,Automatic,0
+gmc yukon,2021,8111.75,10116.81,51089,Petrol,Dealer,Manual,2
+nissan maxima,2014,1810.86,2189.82,112753,Petrol,Dealer,Manual,0
+volkswagen polo,2019,5079.74,5828.64,57638,Diesel,Dealer,Manual,0
+tata punch,2012,1256.22,1445.84,254156,Diesel,Individual,Manual,1
+mercedes a-class,2023,39791.59,44737.21,11693,Petrol,Dealer,Manual,1
+honda passport,2020,5032.98,5336.26,75081,Diesel,Dealer,Manual,1
+ford fusion,2019,6924.45,7765.93,79504,Diesel,Dealer,Manual,1
+gmc acadia,2014,717.33,755.62,75963,Petrol,Dealer,Manual,0
+mahindra kuv100,2019,2299.39,2531.6,72462,Diesel,Dealer,Automatic,0
+kia telluride,2014,1220.93,1518.82,190544,Diesel,Dealer,Automatic,0
+mazda mx-5,2018,2696.8,3040.19,102541,Petrol,Individual,Automatic,1
+toyota sequoia,2008,1003.44,1281.89,151682,Petrol,Dealer,Manual,2
+tata harrier,2022,12678.43,14524.06,19894,Petrol,Dealer,Manual,1
+toyota sequoia,2014,1006.25,1185.4,215678,Diesel,Individual,Automatic,0
+chevrolet traverse,2017,2370.12,2891.32,111354,Diesel,Dealer,Manual,0
+bmw x3,2018,12938.83,15151.68,143486,Diesel,Dealer,Manual,0
+maruti swift,2013,855.98,1048.42,212887,Petrol,Dealer,Manual,1
+maruti xl6,2021,4571.02,5340.68,65078,Diesel,Individual,Manual,0
+toyota corolla,2012,2443.32,2887.82,176993,Diesel,Individual,Automatic,0
+hyundai grand i10,2013,1134.18,1421.05,228897,Diesel,Dealer,Manual,0
+hyundai i20,2015,3142.82,3702.62,149888,Diesel,Dealer,Manual,1
+gmc terrain,2016,3151.16,3848.45,157003,CNG,Dealer,Automatic,1
+chevrolet silverado,2014,4748.64,6151.43,146865,Diesel,Individual,Manual,0
+toyota avalon,2012,1642.18,1996.15,258941,Diesel,Individual,Automatic,1
+nissan pathfinder,2014,2881.19,3344.58,203238,Diesel,Dealer,Automatic,1
+tata tigor,2018,5432.39,6452.45,134586,Petrol,Dealer,Manual,0
+honda ridgeline,2021,15255.62,17941.84,46340,Diesel,Dealer,Manual,0
+gmc yukon,2016,2011.23,2274.31,94156,Petrol,Dealer,Manual,0
+gmc terrain,2016,2752.31,3376.25,175118,Petrol,Dealer,Manual,1
+kia sorento,2016,3318.47,3879.87,161396,Petrol,Dealer,Automatic,1
+hyundai aura,2022,6532.23,7483.32,50296,Diesel,Individual,Manual,2
+mahindra alturas,2015,1473.04,1840.41,114307,Petrol,Individual,Manual,0
+volkswagen tiguan,2021,9710.95,10431.7,54345,Petrol,Individual,Manual,1
+chevrolet tahoe,2021,14333.5,16011.22,31492,Diesel,Dealer,Automatic,1
+toyota land cruiser,2009,2396.6,2996.11,187940,Diesel,Dealer,Automatic,0
+mahindra bolero,2021,10886.61,12439.26,59264,Diesel,Dealer,Manual,0
